@@ -6,10 +6,12 @@ be suitable for running a smaller serverless application?
 
 ## Available Links
 
-At the moment this is a basic webpage with only three subpages.
-- Home, login and about.
-
-Login-page is now fetching token if login details are correct.
+Basic web page with login functionality.
+Available routes are:
+- Home, login, test, auth and about.
+    - Login: sign in a user
+    - Test: test route with a simple fetch to a get-route on the cloud provider
+    - Auth: test route which requires are valid token in order to access
 
 Fill in details about connection to the base url of the api in src/vars.js,
 create a variable called baseUrl.
