@@ -19,3 +19,6 @@ create a variable called baseUrl.
 ### Changes
 2022-04-04 Basic React app created including routes using react-dom
 2022-04-24 Login implemented, still need to save token for using in other routes
+2022-04-25 Token used to authorize logged in user
+2022-05-28 Registering a user is now implemented. Login and Register are not shown
+when user is logged in anymore.
