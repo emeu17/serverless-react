@@ -14,11 +14,12 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #ebff84
 }
 
 .nav {
     margin-right: 2vh;
+    color: #ebff84;
 }
 
 @keyframes App-logo-spin {
